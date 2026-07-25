@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pytesseract
+pillow
+requests
+python-dotenv
+opencv-python
+pyzbar
+groq
+python-whois
+reportlab
+mail-parser
